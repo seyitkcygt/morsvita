@@ -4,6 +4,9 @@ import Link from 'next/link'
 
 
 
+
+
+
 // function HelloWorld() {
 //   return (
 //     <div>
@@ -158,7 +161,6 @@ const vision1 = () => {
   var v1 = document.getElementById("blogs-vision1");
   var v2 = document.getElementById("blogs-vision2");
   var v3 = document.getElementById("blogs-vision3");
-  console.log(document.location);
 
  
   v1.style.marginLeft = '0.5%';
@@ -202,7 +204,9 @@ const vision3 = () => {
 }
 
   
-
+if(screen.width<700){
+  document.location = "https://m0morsvita.herokuapp.com/";
+}
 
 
 
@@ -210,7 +214,11 @@ const vision3 = () => {
 
 
 const Home = ({posts}) => (
+
+  
   <div>
+
+    
      
   <div className="contanier">
     <h1>Mors Et Vita!</h1>
