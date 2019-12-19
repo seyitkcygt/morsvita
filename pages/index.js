@@ -406,7 +406,7 @@ const Home = ({posts}) => (
 .navi {
   position:relative;
   top:80%;
-  left:18%;
+  left:40%;
   width:100%;
   max-width:450px;
   height:10px;
@@ -544,6 +544,7 @@ img {
   margin :10px;
   height:270px;
   transition: .6s;
+  margin-right:20%;
   
 
   
@@ -558,6 +559,7 @@ img {
   margin :10px;
   transition: .6s;
   height:270px;
+  margin-right:20%;
  
 
 
