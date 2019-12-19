@@ -390,7 +390,7 @@ const Home = ({posts}) => (
  
 
 .slidershow {
-  max-width:70px;
+  max-width:400px;
   width:100%;
   height:300px;
   overflow:hidden;
