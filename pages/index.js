@@ -215,16 +215,16 @@ const isMobile = () =>{
 }
   
 
-
+<MobileView>
+    isMobile()
+</MobileView>
 
   
 
 
 const Home = ({posts}) => (
 
-  <MobileView>
-    {isMobile()}
-  </MobileView>
+  
   
   <div>
 
