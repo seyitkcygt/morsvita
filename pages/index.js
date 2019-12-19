@@ -468,6 +468,7 @@ input[name='r']{
 
 .slides{
   display:inline-flex;
+  max-witdh:2100px;
   width:670%;
   transition: .5s;
 
