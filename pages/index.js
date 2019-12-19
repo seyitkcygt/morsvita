@@ -414,7 +414,7 @@ const Home = ({posts}) => (
 
 }
 #bar1 {
-  max-width:450px;
+  max-width:30px;
   width:100%;
   height:10px;
   border: solid #cccccc 1px;
@@ -424,7 +424,7 @@ const Home = ({posts}) => (
 }
 
 #bar2 {
-  max-width:450px;
+  max-width:30px;
   width:100%;
   height:10px;
   border: solid #cccccc 1px;
@@ -434,7 +434,7 @@ const Home = ({posts}) => (
 }
 
 #bar3 {
-  max-width:450px;
+  max-width:30px;
   width:100%;
   height:10px;
   border: solid #cccccc 1px;
@@ -538,7 +538,7 @@ img {
 #blogs-vision1{
   border-radius: 10px 20px;
   border: solid 1px #cccccc;
-  max-width:390px;
+  max-width:350px;
   width:100%;
   float:center;
   margin :10px;
@@ -552,7 +552,7 @@ img {
 #blogs-vision2{
   border-radius: 10px 20px;
   border: solid 1px #cccccc;
-  max-width:675px;
+  max-width:350px;
   width:100%;
   float:center;
   margin :10px;
@@ -567,7 +567,7 @@ img {
 #blogs-vision3{
   border-radius: 10px 20px;
   border: solid 1px #cccccc;
-  max-width:675px;
+  max-width:350px;
   width:100%;
   float:center;
   margin :10px;
