@@ -390,7 +390,8 @@ const Home = ({posts}) => (
  
 
 .slidershow {
-  width:700px;
+  max-width:700px;
+  width:100%;
   height:300px;
   overflow:hidden;
   margin 0 auto;
@@ -413,7 +414,8 @@ const Home = ({posts}) => (
 
 }
 #bar1 {
-  width:450px;
+  max-width:450px;
+  width:100%;
   height:10px;
   border: solid #cccccc 1px;
   cursor:pointer;
@@ -422,7 +424,8 @@ const Home = ({posts}) => (
 }
 
 #bar2 {
-  width:450px;
+  max-width:450px;
+  width:100%;
   height:10px;
   border: solid #cccccc 1px;
   cursor:pointer;
@@ -431,7 +434,8 @@ const Home = ({posts}) => (
 }
 
 #bar3 {
-  width:450px;
+  max-width:450px;
+  width:100%;
   height:10px;
   border: solid #cccccc 1px;
   cursor:pointer;
