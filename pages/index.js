@@ -2,6 +2,11 @@ import React, { Component } from 'react'
 import fetch from 'isomorphic-unfetch'
 import Link from 'next/link'
 
+{
+  console.log(document.location)
+
+  }
+
 
 
 // function HelloWorld() {
