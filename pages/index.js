@@ -538,7 +538,7 @@ img {
 #blogs-vision1{
   border-radius: 10px 20px;
   border: solid 1px #cccccc;
-  max-width:675px;
+  max-width:390px;
   width:100%;
   float:center;
   margin :10px;
