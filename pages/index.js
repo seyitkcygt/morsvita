@@ -390,7 +390,7 @@ const Home = ({posts}) => (
  
 
 .slidershow {
-  max-width:700px;
+  max-width:70px;
   width:100%;
   height:300px;
   overflow:hidden;
@@ -468,7 +468,7 @@ input[name='r']{
 
 .slides{
   display:inline-flex;
-  max-witdh:2100px;
+  max-witdh:210px;
   width:670%;
   transition: .5s;
 
