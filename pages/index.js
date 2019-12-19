@@ -2,11 +2,6 @@ import React, { Component } from 'react'
 import fetch from 'isomorphic-unfetch'
 import Link from 'next/link'
 
-{
-  console.log(document.location)
-
-  }
-
 
 
 // function HelloWorld() {
@@ -163,6 +158,7 @@ const vision1 = () => {
   var v1 = document.getElementById("blogs-vision1");
   var v2 = document.getElementById("blogs-vision2");
   var v3 = document.getElementById("blogs-vision3");
+  console.log(document.location);
 
  
   v1.style.marginLeft = '0.5%';
