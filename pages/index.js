@@ -1,3 +1,4 @@
+import {MobileView} from "react-device-detect";
 import React, { Component } from 'react'
 import fetch from 'isomorphic-unfetch'
 import Link from 'next/link'
@@ -203,10 +204,16 @@ const vision3 = () => {
 
 }
 
+
+const isMobile = () =>{
+
+  if(screen.width<700){
+    document.location = "https://m0morsvita.herokuapp.com/";
+  }
   
-if(screen.width<700){
-  document.location = "https://m0morsvita.herokuapp.com/";
+
 }
+  
 
 
 
@@ -215,6 +222,9 @@ if(screen.width<700){
 
 const Home = ({posts}) => (
 
+  <MobileView>
+    {isMobile()}
+  </MobileView>
   
   <div>
 
