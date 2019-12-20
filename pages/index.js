@@ -554,7 +554,7 @@ input[name='r']{
 }
 
 img {
-  width:40%;
+  width:20%;
   height:60%;
 
 }
