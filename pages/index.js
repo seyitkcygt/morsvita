@@ -519,7 +519,7 @@ input[name='r']{
 .blogs-all {
   border-radius: 10px 20px;
   border: solid 1px #cccccc;
-  max-width:370px;
+  max-width:350px;
   width:100%;
   margin:20px;
   float:left;
@@ -539,9 +539,10 @@ input[name='r']{
 
 
 .blog-date p {
+  margin: 0 auto;
   font-size:11px;
   color:#F2F2F2;
-  text-align:center;
+
 }
 
 
@@ -557,7 +558,7 @@ input[name='r']{
 
 img {
   width:10%;
-  height:80%;
+  height:60%;
 
 }
 
