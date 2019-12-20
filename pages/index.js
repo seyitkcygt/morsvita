@@ -558,7 +558,7 @@ input[name='r']{
 }
 
 img {
-  width:10%;
+  width:15%;
   height:50%;
 
 }
@@ -665,7 +665,7 @@ ul li {
 
 a {
   text-decoration:none;
-  color:   #f06540 ;
+  color:red ;
 }
 
 
