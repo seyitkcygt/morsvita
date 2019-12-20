@@ -450,7 +450,7 @@ h3 {
   max-width:40px;
   width:100%;
   height:10px;
-  border: solid #A4A4A4 1px;
+  border: solid #0B0B61 1px;
   cursor:pointer;
   transition: 0.4s;
   border-radius: 8px 1px;
@@ -460,7 +460,7 @@ h3 {
   max-width:40px;
   width:100%;
   height:10px;
-  border: solid #A4A4A4 1px;
+  border: solid #0B0B61 1px;
   cursor:pointer;
   transition: 0.4s;
   border-radius: 8px 1px;
@@ -470,7 +470,7 @@ h3 {
   max-width:40px;
   width:100%;
   height:10px;
-  border: solid #A4A4A4 1px;
+  border: solid #0B0B61 1px;
   cursor:pointer;
   transition: 0.4s;
   border-radius: 8px 1px;
