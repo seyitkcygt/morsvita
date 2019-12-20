@@ -393,7 +393,7 @@ const Home = ({posts}) => (
  
     <div className="footer">
       <h3 className="footer-title">Mors et Vita!</h3>
-      <img src="/static/images/heatm.png"></img>
+      <img src="/static/images/heartm.png"></img>
       <p>
         dnasldlasjd aashduashdusahd a hsdkashdasdjhasşdj
       </p>
@@ -648,6 +648,7 @@ img {
   text-align:center;
   margin: 0 auto;
   height : 300px;
+  background-color:#424242;
   
 
 }
