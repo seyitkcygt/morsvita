@@ -542,6 +542,7 @@ input[name='r']{
   margin: 0 auto;
   font-size:11px;
   color:#F2F2F2;
+  margin-top:4px;
 
 }
 
@@ -558,7 +559,7 @@ input[name='r']{
 
 img {
   width:10%;
-  height:60%;
+  height:50%;
 
 }
 
