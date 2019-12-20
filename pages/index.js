@@ -155,7 +155,7 @@ import { render } from "react-dom";
 
 
 
-var storage = 2;
+var storage = 0;
 
 const vision1 = () => {
  
@@ -395,8 +395,10 @@ const Home = ({posts}) => (
       <h3 className="footer-title">Mors et Vita!</h3>
       <img src="/static/images/heartm.png"></img>
       <p>
-        dnasldlasjd aashduashdusahd a hsdkashdasdjhasşdj
+        Developed by 
       </p>
+
+      <h3>Mors et Vita!</h3>
 
 
       
@@ -554,8 +556,8 @@ input[name='r']{
 }
 
 img {
-  width:20%;
-  height:60%;
+  width:10%;
+  height:80%;
 
 }
 
@@ -648,7 +650,7 @@ img {
   text-align:center;
   margin: 0 auto;
   height :250px;
-  background-color:#424242;
+  background-color:#A4A4A4;
   
 
 }
