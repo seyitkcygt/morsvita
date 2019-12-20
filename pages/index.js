@@ -389,21 +389,38 @@ const Home = ({posts}) => (
     </div>
 
 
-    <div className="ads">
     <script  data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    </div>
+ 
     <div className="footer">
+      <h3 className="footer-title">Mors et Vita!</h3>
+      <img src="/static/images/morsvitam.png"></img>
+      <p>
+        Mors et Vita! developed by <span style={"font-size" = "13px"}>Mors et Vita!</span> 
 
 
-      <ul>
-        <li><a href="test"></a></li>
+      </p>
 
-      </ul>
+
+      
 
     </div>
     <style global jsx>{`
 
- 
+
+
+h3 {
+  margin: 0 auto;
+  font-color: white;
+  margin-bottom:10px;
+}
+
+
+p {
+  font-color:white;
+  font-size:12px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
 
 .slidershow {
   max-width:700px;
@@ -539,10 +556,8 @@ input[name='r']{
 }
 
 img {
-  position:relative;
-  width:100%;
-  height:20%;
-  z-index:-1;
+  width:40%;
+  height:60%;
 
 }
 
@@ -634,18 +649,12 @@ img {
   width:100%;
   text-align:center;
   margin: 0 auto;
+  height : 300px;
   
 
 }
 
-.ads {
-  border-radius : 15px 30px;
-  border: .2px solid #cccccc;
-  max-width:800px;
-  width:100%;
-  height: 50px;
-  margin: 0 auto;
-}
+
 
 ul li {
   list-style:none;
