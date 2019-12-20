@@ -393,9 +393,9 @@ const Home = ({posts}) => (
  
     <div className="footer">
       <h3 className="footer-title">Mors et Vita!</h3>
-      <img src="/static/images/morsvitam.png"></img>
+      <img src="/static/images/heatm.png"></img>
       <p>
-        Mors et Vita! developed by Mors et Vita!
+        <span style="color:#FF0040">Mors et Vita!</span> developed by <span style="color:#FF0040">Mors et Vita!</span> 
 
 
       </p>
