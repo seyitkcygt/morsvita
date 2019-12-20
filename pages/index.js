@@ -390,7 +390,7 @@ const Home = ({posts}) => (
 
 
 
-    <script data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script  className="ads" data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <div className="footer">
       <ul>
         <li><a href="test"></a></li>
@@ -635,7 +635,14 @@ img {
 
  
 
-
+.ads {
+  border-radius : 15px 30px;
+  border: .2px solid #cccccc;
+  max-width:800px;
+  width:100%;
+  height: 50px;
+  margin: 0 auto;
+}
 }
 ul li {
   list-style:none;
