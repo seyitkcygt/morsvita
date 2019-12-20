@@ -395,9 +395,7 @@ const Home = ({posts}) => (
       <h3 className="footer-title">Mors et Vita!</h3>
       <img src="/static/images/heatm.png"></img>
       <p>
-        <span style="font-weight:bold">Mors et Vita!</span> developed by <span style="font-weight:bold">Mors et Vita!</span> 
-
-
+        dnasldlasjd aashduashdusahd a hsdkashdasdjhasşdj
       </p>
 
 
@@ -410,13 +408,13 @@ const Home = ({posts}) => (
 
 h3 {
   margin: 0 auto;
-  font-color: white;
+  color: white;
   margin-bottom:10px;
 }
 
 
 p {
-  font-color:white;
+  color:white;
   font-size:12px;
   margin: 0 auto;
   margin-bottom: 10px;
