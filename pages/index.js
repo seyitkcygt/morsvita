@@ -518,7 +518,7 @@ input[name='r']{
 .blogs-all {
   border-radius: 10px 20px;
   border: solid 1px #cccccc;
-  max-width:300px;
+  max-width:350px;
   width:100%;
   margin:20px;
   float:left;
