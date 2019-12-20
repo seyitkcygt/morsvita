@@ -394,7 +394,7 @@ const Home = ({posts}) => (
     <div className="footer">
       <h3 className="footer-title">Mors et Vita!</h3>
       <img src="/static/images/heartm.png"></img>
-      <p>
+      <p className="footer-p">
         Developed by 
       </p>
 
@@ -416,7 +416,7 @@ h3 {
 }
 
 
-p {
+.footer-p {
   color:white;
   font-size:12px;
   margin: 0 auto;
@@ -509,7 +509,7 @@ input[name='r']{
 
 
 .hero-title {
-  font-size:16px;
+  font-size:18px;
   float:right;
   margin:10px;
   margin-top:40px;
