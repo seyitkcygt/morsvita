@@ -389,9 +389,12 @@ const Home = ({posts}) => (
     </div>
 
 
-
-    <script  className="ads" data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <div className="ads">
+    <script  data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    </div>
     <div className="footer">
+
+
       <ul>
         <li><a href="test"></a></li>
 
