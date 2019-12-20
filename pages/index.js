@@ -636,7 +636,7 @@ img {
   margin: 0 auto;
   
 
- 
+}
 
 .ads {
   border-radius : 15px 30px;
@@ -646,7 +646,7 @@ img {
   height: 50px;
   margin: 0 auto;
 }
-}
+
 ul li {
   list-style:none;
 }
