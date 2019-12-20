@@ -155,7 +155,7 @@ import { render } from "react-dom";
 
 
 
-var storage = 2;
+var storage = 0;
 
 const vision1 = () => {
  
@@ -508,7 +508,7 @@ input[name='r']{
 
 
 .hero-title {
-  font-size:16px;
+  font-size:18px;
   float:right;
   margin:10px;
   margin-top:40px;
