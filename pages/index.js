@@ -407,6 +407,7 @@ const Home = ({posts}) => (
 
 
 h3 {
+  margin-top: 54px;
   margin: 0 auto;
   color: white;
   margin-bottom:10px;
@@ -647,7 +648,7 @@ img {
   width:100%;
   text-align:center;
   margin: 0 auto;
-  height : 300px;
+  height :250px;
   background-color:#424242;
   
 
