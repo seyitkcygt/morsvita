@@ -155,7 +155,7 @@ import { render } from "react-dom";
 
 
 
-var storage = 0;
+var storage = 2;
 
 const vision1 = () => {
  
@@ -418,7 +418,6 @@ p {
   color:white;
   font-size:12px;
   margin: 0 auto;
-  margin-bottom: 10px;
 }
 
 .slidershow {
@@ -508,7 +507,7 @@ input[name='r']{
 
 
 .hero-title {
-  font-size:18px;
+  font-size:16px;
   float:right;
   margin:10px;
   margin-top:40px;
@@ -518,7 +517,7 @@ input[name='r']{
 .blogs-all {
   border-radius: 10px 20px;
   border: solid 1px #cccccc;
-  max-width:350px;
+  max-width:370px;
   width:100%;
   margin:20px;
   float:left;
