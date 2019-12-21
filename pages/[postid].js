@@ -21,9 +21,20 @@ const Blog = ({post}) => (
     
   
   
+      <div className="devider">
+        
+        </div>
   
   
   
+      </div>
+
+      <div className="post-back" style={{backgroundImage:`url(${post.back})`,
+      backgroundRepeat:'no-repeat',
+      backgroundSize:'cover',
+      backgroundPosition:'center'
+    }}>
+
       </div>
   
       <div className="devider">
@@ -127,6 +138,15 @@ const Blog = ({post}) => (
   a {
     text-decoration:none;
     color: #f06540 ;
+  }
+
+  .post-back {
+    margin: 0 auto;
+    witdth: 100%;
+    max-width: 650px;
+    height: 200px;
+    border-radius: 12px 20px;
+    border: 1px solid #cccccc;
   }
       `}</style>
   
