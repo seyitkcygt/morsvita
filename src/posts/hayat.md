@@ -1,0 +1,1 @@
+Seni çoook Seviyorum  HALİMEMM
