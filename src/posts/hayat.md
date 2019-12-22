@@ -1,4 +1,4 @@
-Hep **AŞK** nedir diye merak ederdim.. Böyle herkesten dinlenir ya o kadar *basit* mi ya derdim. Acaba bir gün bende olıur muydum ki... *Bilinmez* ama çok da umudum yoktu daha doğrusu **AŞKA** inancım yok zannederdim çünkü onun **anlamını** tam olarak bilmediğim *HUZUR* sandığım şey var sanıyordum.
+Hep **AŞK** nedir diye merak ederdim.. Böyle herkesten dinlenir ya o kadar *basit* mi ya derdim. Acaba bir gün bende olur muydum ki... *Bilinmez* ama çok da umudum yoktu daha doğrusu **AŞKA** inancım yok zannederdim çünkü onun **anlamını** tam olarak bilmediğim *HUZUR* sandığım şey var sanıyordum.
 
 
 Sonuçta her şeyim var *sanırdım* ... Hiçbir eksiğim yok zannederdim. Kendimi **huzurlu** zannederdim.
