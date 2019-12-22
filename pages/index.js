@@ -217,11 +217,6 @@ renderContent();
 
 
 const Home = ({posts}) => (
-
-    <head>
-       <script  data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-    </head>
   
   
   <div>
