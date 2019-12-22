@@ -4,7 +4,7 @@ import fetch from 'isomorphic-unfetch'
 import Link from 'next/link'
 import { render } from "react-dom";
 
-import ins from  ".ads/ads"
+import ins from  '../ads/ads'
 
 
 
@@ -399,7 +399,7 @@ const Home = ({posts}) => (
   
     
     <ins>
-      
+
     </ins>
 
 
