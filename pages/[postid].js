@@ -59,8 +59,8 @@ const Blog = ({post}) => (
       <style global jsx>{`
        
   .blog {
-    font-family:arial;
-    max-width:800px;
+    font-family: verdana;
+    max-width:500px;
     width:100%;
     margin:10px;
     margin-top:30px;
