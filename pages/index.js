@@ -3,7 +3,8 @@ import React, { Component } from 'react'
 import fetch from 'isomorphic-unfetch'
 import Link from 'next/link'
 import { render } from "react-dom";
-import Ad from  'react-google-publisher-tag';
+
+import ins from  ".ads/ads"
 
 
 
@@ -219,30 +220,7 @@ renderContent();
 
 
 
-export default class HomePage extends React.Component {
-  componentDidMount() {
-    const installGoogleAds = () => {
-      const elem = document.createElement("script");
-      elem.src =
-        "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
-      elem.async = true;
-      elem.defer = true;
-      document.body.insertBefore(elem, document.body.firstChild);
-    };
-    installGoogleAds();
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  }
 
-  render() {
-    return (
-      <ins className='adsbygoogle'
-           style={{ display: 'block' }}
-           data-ad-client='ca-pub-6263243641963295'
-           data-ad-slot='6263243641963295'
-           data-ad-format='auto' />
-    );
-  }
-}
 
 const Home = ({posts}) => (
   
@@ -420,14 +398,9 @@ const Home = ({posts}) => (
     </div>
   
     
-    {HomePage()}
-
-
-    <div id="application">
-        <Ad path="/network-code/ad-code" />
-        <RouteHandler />
+    <ins>
       
-    </div>
+    </ins>
 
 
    
