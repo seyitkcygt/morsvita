@@ -103,9 +103,9 @@ const Blog = ({post}) => (
     margin:20px;
     max-width:800px;
     width:100%;
-    text-align:center;
     display:inline-block;
     margin: 0 auto;
+    float:left;
     
   
   
