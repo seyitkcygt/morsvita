@@ -420,7 +420,7 @@ const Home = ({posts}) => (
     </div>
   
     
-     HomePage();
+    {HomePage()}
 
 
     <div id="application">
