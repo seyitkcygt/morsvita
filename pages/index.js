@@ -218,6 +218,10 @@ renderContent();
 
 const Home = ({posts}) => (
 
+    <head>
+       <script  data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+    </head>
   
   
   <div>
@@ -393,7 +397,7 @@ const Home = ({posts}) => (
     </div>
 
 
-    <script  data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+   
  
     <div className="footer">
       <h3 className="footer-title">Mors et Vita!</h3>
