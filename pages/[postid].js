@@ -65,6 +65,7 @@ const Blog = ({post}) => (
     width:100%;
     margin:10px;
     margin-top:30px;
+    float:left;
   }
   
   .Blog-title {
@@ -105,7 +106,6 @@ const Blog = ({post}) => (
     width:100%;
     display:inline-block;
     margin: 0 auto;
-    float:left;
     
   
   
