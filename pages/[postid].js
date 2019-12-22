@@ -60,7 +60,7 @@ const Blog = ({post}) => (
        
   .blog {
     font-family: verdana;
-    max-width:500px;
+    max-width:800px;
     width:100%;
     margin:10px;
     margin-top:30px;
@@ -142,7 +142,7 @@ const Blog = ({post}) => (
   .post-back {
     margin: 0 auto;
     witdth: 100%;
-    max-width: 650px;
+    max-width: 500px;
     height: 200px;
     border-radius: 12px 20px;
     border: 1px solid #cccccc;
