@@ -2,6 +2,13 @@ export const getPosts = () => {
 
     return [
 
+        {
+            title:"Hayat (?)",
+            slug:"hayat",
+            details:require("./posts/hayat.md").default,
+            date:"17 Haziran 2019",
+        
+        },
     {
         title:"Neden AŞK?",
         slug:"neden-ask",
@@ -16,15 +23,9 @@ export const getPosts = () => {
      details:require("./posts/nahl-15.md").default,
      date:"16 Haziran 2019",
 
-},
-
-{
-    title:"Hayat (?)",
-    slug:"hayat",
-    details:require("./posts/hayat.md").default,
-    date:"17 Haziran 2019",
-
 }
+
+
 
 ];
 
