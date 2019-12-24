@@ -6,7 +6,7 @@ export const getPosts = () => {
             slug:"insanlik-uzerine",
             details:require("./posts/insanlik-uzerine.md").default,
             date:"24 Aralık 2019",
-            back: "static/images/clocwork.png",
+            back: "static/images/clockwork.png",
         
         },
 
@@ -25,14 +25,7 @@ export const getPosts = () => {
         date:"21 Aralık 2019",
         back: "/static/images/neden.png",
 
- },
- {
-     title:"Nahl 15(?)",
-     slug:"nahl-15",
-     details:require("./posts/nahl-15.md").default,
-     date:"16 Haziran 2019",
-
-}
+ }
 
 ];
 
