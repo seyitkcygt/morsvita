@@ -1,6 +1,14 @@
 export const getPosts = () => {
 
     return [
+        {
+            title:"İnsanlık Üzerine",
+            slug:"insanlik-uzerine",
+            details:require("./posts/insanlik-uzerine.md").default,
+            date:"24 Aralık 2019",
+            back: "static/images/clocwork.png",
+        
+        },
 
         {
             title:"Aşkı Anlamak",
