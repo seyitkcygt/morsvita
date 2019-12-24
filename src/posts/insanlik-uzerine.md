@@ -12,6 +12,7 @@ yetersizliğineşahit oldum. Etraftan duyduğum fikirlerin eksikliğine ... Beni
 açılan kapının anahtarını temsil ediyordu. Kim olduğum ne olduğum öenmli değildi. Seçimin **tek** amacı doğanı inkardan ibretti.Bu sebeple benlik ortadan kaldırıp basit bir şeçime indirgemiştim *insanlığı*. Seçim yapabileceğim problemler türetiyordum. Her şeçimde insanlıktan uzaklaşmış yaşamı önemsemeyen biri haline dönüşmüştüm. Kontrol edemediğim tek şey kalmıştı elimde **ÖLÜM**. **ÖLÜMÜ** seçmeyi planlamıştım. Ta ki bir güne kadar. Seçim yapılamayacak kadar bilinçsiz yaşanan bir olay. Elinden kurtulamayacağım **İNSANİ** bir olay.
 
 
+
     İnsan olmaya çalışırken ne olduğumu, duygularımı, sahip olduklarımı yitirip toplumun ilaçlanmış
 otomatik bir portakalı olmuştum.
 
