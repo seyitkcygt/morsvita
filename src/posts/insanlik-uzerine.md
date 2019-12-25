@@ -20,10 +20,10 @@ otomatik bir portakalı olmuştum.
 ## İnsan olmak için kabul etmek ?
 
 dik, dikenli, taşlı ve yalın ayak çıkılan bir yamacın sonunda varılan bir
-**cennet**. Kendi ve ne olduğunu kabul etmek bu yokuştur işte, duygularını kabul etmek... Yokuşun sanondaki cennet **insanlık** ve en güzel meyvesi **AŞKTIR**.
+**cennet**. Kendini ve ne olduğunu kabul etmek bu yokuştur işte, duygularını kabul etmek... Yokuşun sanondaki cennet **insanlık** ve en güzel meyvesi **AŞKTIR**.
 
 Ekşi bir portakal olduğunu kabul etmektense ilaçlanıp tatlandırılmak, toplumun otomatik portakalı
-olmak olmak istersin. Çok daha kolaydır bu yol.
+ olmak istersin. Çok daha kolaydır bu yol.
 
 
 Bir gün ekşi portakalı kabul edecek birisi çıkar karşına ve sen o yolu üşenmeden 
