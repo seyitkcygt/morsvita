@@ -2,14 +2,14 @@
 
 
 Bu konuda birçok fikir söylemek mümkündür. Lakin biraz düşündüğümde tüm fikirlerin
-yetersizliğineşahit oldum. Etraftan duyduğum fikirlerin eksikliğine ... Beni en çok etkileyen fikir **SEÇİM YAPMAK** oldu.Her şeyi *kontrol* edebileceğimi düşündüğüm materyalist zamanlarımda bu görüş beni esir almıştı. Bir büyüleyici ana kadar her şeyi kontrol edebileceğimi düşünmüştüm. *Seçim yapmanın* doğanı **inkar** düşünüp materyalist bir yaklaşıma kapılmıştım. Doğamdan uzaklaşmayı **SEÇMİŞTİM**. Doğamı inkarı ...
+yetersizliğine şahit oldum. Etraftan duyduğum fikirlerin eksikliğine ... Beni en çok etkileyen fikir **SEÇİM YAPMAK** oldu.Her şeyi *kontrol* edebileceğimi düşündüğüm materyalist zamanlarımda bu görüş beni esir almıştı. Bir büyüleyici ana kadar her şeyi kontrol edebileceğimi düşünmüştüm. *Seçim yapmanın* doğanı **inkar** olduğunu düşünüp materyalist bir yaklaşıma kapılmıştım. Doğamdan uzaklaşmayı **SEÇMİŞTİM**. Doğamı inkarı ...
 
 
 ### Seçim yapmak yeterli mi ?
 
 
 Her şeyi kontrol edebileceğimi düşündüğüm zamanlarda *seçim yapmak* benim için insan olmak için 
-açılan kapının anahtarını temsil ediyordu. Kim olduğum ne olduğum öenmli değildi. Seçimin **tek** amacı doğanı inkardan ibretti.Bu sebeple benlik ortadan kaldırıp basit bir şeçime indirgemiştim *insanlığı*. Seçim yapabileceğim problemler türetiyordum. Her şeçimde insanlıktan uzaklaşmış yaşamı önemsemeyen biri haline dönüşmüştüm. Kontrol edemediğim tek şey kalmıştı elimde **ÖLÜM**. **ÖLÜMÜ** seçmeyi planlamıştım. Ta ki bir güne kadar. Seçim yapılamayacak kadar bilinçsiz yaşanan bir olay. Elinden kurtulamayacağım **İNSANİ** bir olay.
+açılan kapının anahtarını temsil ediyordu. Kim olduğum ne olduğum önemli değildi. Seçimin **tek** amacı doğanı inkardan ibretti.Bu sebeple benliği ortadan kaldırıp basit bir şeçime indirgemiştim *insanlığı*. Seçim yapabileceğim problemler türetiyordum. Her şeçimde insanlıktan uzaklaşmış yaşamı önemsemeyen biri haline dönüşmüştüm. Kontrol edemediğim tek şey kalmıştı elimde **ÖLÜM**. **ÖLÜMÜ** seçmeyi planlamıştım. Ta ki bir güne kadar. Seçim yapılamayacak kadar bilinçsiz yaşanan bir olay. Elinden kurtulamayacağım **İNSANİ** bir olay.
 
 
 
