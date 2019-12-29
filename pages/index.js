@@ -2,9 +2,10 @@ import {isMobile} from "react-device-detect";
 import React, { Component } from 'react'
 import fetch from 'isomorphic-unfetch'
 import Link from 'next/link'
-import { render } from "react-dom";
+import Adsense from 'react-adsense'
 
-import {ins} from  '../ads/ads'
+
+
 
 
 
@@ -418,6 +419,13 @@ const Home = ({posts}) => (
       
 
     </div>
+
+    <Adsense.Google
+    client='ca-pub-6263243641963295'
+    slot='5973919912'
+    >
+
+    </Adsense.Google>
     <style global jsx>{`
 
 
