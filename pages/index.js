@@ -439,8 +439,8 @@ h3 {
 }
 
 .insta{
-  width:8%;
-  height:12%;
+  width:5%;
+  height:15%;
   margin: 0 auto;
 }
 
