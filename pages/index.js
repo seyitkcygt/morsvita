@@ -415,7 +415,7 @@ const Home = ({posts}) => (
 
       <h3>Mors et Vita!</h3>
 
-      <Link>
+      <Link href="https://www.instagram.com/mors_et.vita/">
         <a>
           <img  className="insta" src="static/images/insta.png">
           </img>
@@ -439,8 +439,8 @@ h3 {
 }
 
 .insta{
-  width:2%;
-  height:2%;
+  width:8%;
+  height:12%;
   margin: 0 auto;
 }
 
