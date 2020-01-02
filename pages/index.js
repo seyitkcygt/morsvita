@@ -417,7 +417,7 @@ const Home = ({posts}) => (
 
       <Link>
         <a>
-          <img src="static/images/insta.png">
+          <img  className="insta" src="static/images/insta.png">
           </img>
         </a>
       </Link>
@@ -436,6 +436,12 @@ h3 {
   margin: 0 auto;
   color: white;
   margin-bottom:10px;
+}
+
+.insta{
+  width:2%;
+  height:2%;
+  margin: 0 auto;
 }
 
 
