@@ -2,7 +2,7 @@ import {isMobile} from "react-device-detect";
 import React, { Component } from 'react'
 import fetch from 'isomorphic-unfetch'
 import Link from 'next/link'
-import Adsense from 'react-adsense'
+
 
 
 
@@ -415,17 +415,18 @@ const Home = ({posts}) => (
 
       <h3>Mors et Vita!</h3>
 
+      <Link>
+        <a>
+          <img src="static/images/insta.png">
+          </img>
+        </a>
+      </Link>
+
 
       
 
     </div>
 
-    <Adsense.Google
-    client='ca-pub-6263243641963295'
-    slot='5973919912'
-    >
-
-    </Adsense.Google>
     <style global jsx>{`
 
 
