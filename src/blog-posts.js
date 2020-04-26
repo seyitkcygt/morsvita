@@ -2,6 +2,15 @@ export const getPosts = () => {
 
     return [
         {
+            title:"Milyon Yılın Aşkı",
+            slug:"milyon-yilin-aski",
+            details:require("./posts/milyon-yilin-aski.md").default,
+            date:"25 Nisan 2020",
+            back: "static/images/clockwork.png",
+        
+        },
+        
+        {
             title:"İnsanlık Üzerine",
             slug:"insanlik-uzerine",
             details:require("./posts/insanlik-uzerine.md").default,
