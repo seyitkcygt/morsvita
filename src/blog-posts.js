@@ -3,8 +3,8 @@ export const getPosts = () => {
     return [
         {
             title:"Milyon Yılın Aşkı",
-            slug:"milyon-yilin-aski",
-            details:require("./posts/milyon-yilin-aski.md").default,
+            slug:"hayatin-tanimi",
+            details:require("./posts/Hayatin-Tanimi(SEN).md").default,
             date:"3 Mayıs 2020",
             back: "static/images/hayat.png",
         
