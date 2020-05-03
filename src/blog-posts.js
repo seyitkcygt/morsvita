@@ -2,7 +2,7 @@ export const getPosts = () => {
 
     return [
         {
-            title:"Milyon Yılın Aşkı",
+            title:"Hayatın Tanımı (SEN)",
             slug:"hayatin-tanimi",
             details:require("./posts/hayatin-tanimi(SEN).md").default,
             date:"3 Mayıs 2020",
