@@ -6,7 +6,7 @@ export const getPosts = () => {
             slug:"milyon-yilin-aski",
             details:require("./posts/milyon-yilin-aski.md").default,
             date:"25 Nisan 2020",
-            back: "static/images/clockwork.png",
+            back: "static/images/hayat.png",
         
         },
         
