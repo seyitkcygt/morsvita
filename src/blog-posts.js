@@ -5,7 +5,7 @@ export const getPosts = () => {
             title:"Milyon Yılın Aşkı",
             slug:"milyon-yilin-aski",
             details:require("./posts/milyon-yilin-aski.md").default,
-            date:"25 Nisan 2020",
+            date:"3 Mayıs 2020",
             back: "static/images/hayat.png",
         
         },
