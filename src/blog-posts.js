@@ -1,6 +1,15 @@
 export const getPosts = () => {
 
     return [
+ {
+            title:"Mors et Vita",
+            slug:"morsetvita",
+            details:require("./posts/morsetvita.md").default,
+            date:"5 Mayıs 2020",
+            back: "static/images/hayat.png",
+        
+        },
+
         {
             title:"Hayatın Tanımı (SEN)",
             slug:"hayatin-tanimi",
