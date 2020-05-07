@@ -1,6 +1,16 @@
 export const getPosts = () => {
 
     return [
+
+ {
+            title:"Güneyden Doğan Güneş",
+            slug:"günes",
+            details:require("./posts/güneyden-doğan-güneş.md").default,
+            date:"7 Mayıs 2020",
+            back: "static/images/neden.png",
+        
+        },
+
  {
             title:"Mors et Vita",
             slug:"morsetvita",
