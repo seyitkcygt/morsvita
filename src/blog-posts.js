@@ -7,7 +7,7 @@ export const getPosts = () => {
  {
             title:"BİR YILIMIZ",
             slug:"bir-yilimiz",
-            details:require("./posts/BİR-YILIMIZ.md").default,
+            details:require("./posts/bir-YILIMIZ.md").default,
             date:"10 Mayıs 2020",
             back: "static/images/neden.png",
         
