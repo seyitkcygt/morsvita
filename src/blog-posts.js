@@ -2,6 +2,17 @@ export const getPosts = () => {
 
     return [
 
+
+
+ {
+            title:"BİR YILIMIZ",
+            slug:"bir-yilimiz",
+            details:require("./posts/BİR-YILIMIZ.md").default,
+            date:"10 Mayıs 2020",
+            back: "static/images/neden.png",
+        
+        },
+
  {
             title:"Güneyden Doğan Güneş",
             slug:"günes",
