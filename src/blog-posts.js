@@ -1,6 +1,14 @@
 export const getPosts = () => {
 
     return [
+{
+            title:"İLK DEFA SARILMAK",
+            slug:"sarilmak",
+            details:require("./posts/sarılmak.md").default,
+            date:"14 Mayıs 2020",
+            back: "static/images/hayat.png",
+        
+        },
 
 
 
