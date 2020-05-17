@@ -1,6 +1,15 @@
 export const getPosts = () => {
 
     return [
+
+{
+            title:"MUTLULUK YAĞMURU",
+            slug:"mutluluk",
+            details:require("./posts/mutluluk-yagmuru.md").default,
+            date:"17 Mayıs 2020",
+            back: "static/images/hayat.png",
+        
+        },
 {
             title:"İLK DEFA SARILMAK",
             slug:"sarilmak",
