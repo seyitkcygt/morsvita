@@ -1,6 +1,16 @@
 export const getPosts = () => {
 
     return [
+        
+        {
+            title:"Maxwell'in Cini mi Allah mı?",
+            slug:"cin",
+            details:require("./posts/maxwellincini.md").default,
+            date:"23 Eylül 2020",
+            back: "static/images/hayat.png",
+        
+        },
+        
 
 {
             title:"MUTLULUK YAĞMURU",
