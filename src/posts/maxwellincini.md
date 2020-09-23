@@ -12,8 +12,8 @@ Yazımıza başlamadan önce konuyla alakası olan Maxwell'in cini düşünce de
 
 
 Bu düşünce deneyinde Maxwell iki kapali oda ve bu odalar arasinda bir tane açılır kapanır deliğe sahip olan bir duvar hayal etmiştir. Bu odalarda başlangıç toplam enerjileri aynı olan gazlar vardır. Odaların üzerinde de duvardaki deliğe yakın olan her gazın enerjisini ölçebilen ve istediğinde kapağı açıp kapatabilen bir cin vardır.
+![deney](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBvwNd056ZtnPAkC7Ig10UMIPnVU7a_yfLIQ&usqp=CAU)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBvwNd056ZtnPAkC7Ig10UMIPnVU7a_yfLIQ&usqp=CAU" style="width:150px;">
 
 Bu cinin amacı ölçtüğü gaz atomunun enerjisi yüksekse sağdaki odaya enerjisi düşükse soldaki odaya toplamaktır. Zamanla cinin yaptığı bu uygulama sonucunda odalar arasındaki enerji ve basınç farkı giderek artacak ve en sonunda da maximum seviyeye ulaşacaktır. Bu durumda elde edilen enerji ve basınç farki iş yapmak için kullanılacak yani toplam enerjisi sıfır olan bir sisteme dışardan enerji eklemeden o sistem içerisinde iş yapabilme yeteneğine sahip enerji elde edilmiş olacak.
 
@@ -22,8 +22,8 @@ Bu cinin amacı ölçtüğü gaz atomunun enerjisi yüksekse sağdaki odaya ener
 
 
 Geçtiğimiz günlerde yayınlanan bir araştırmada araştırmacılar Maxwell'in cinini bir fotodedektör gazları da foton atımları olarak kullanmışlardır. Özetle denek düzeneği şu şekilde:
+![deney](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaFOcBiNuRM6alQd7XUOSM2XSg_lYs1IhmOg&usqp=CAU)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaFOcBiNuRM6alQd7XUOSM2XSg_lYs1IhmOg&usqp=CAU" style="width:150px;">
 
 `Maxwell'in cininin fotonik uygulaması için kurulan deney düzeneği.
 Telif: Vidrighin, et al. ©2016 American Physical Society`
